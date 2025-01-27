@@ -1,6 +1,6 @@
 ![logo](https://github.com/abidxcrescent/abidxcrescent/blob/main/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)
 <h1 align="center">Hi 👋, I'm Abid Crescent</h1>
-<h3 align="center">I am Software Engineer who loves testing</h3>
+<h3 align="center">I am Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidxcrescent&label=Profile%20views&color=0e75b6&style=flat" alt="abidxcrescent" /> </p>
 
